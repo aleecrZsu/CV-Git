@@ -1,0 +1,51 @@
+# Site 
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Alejandra Elizabeth Cruz Rivera
+title: Junior Network System Administrator / Programmer
+email: aleecr2002@gmail.com
+website: www.github.com/aleecr2002
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: 
+github_username: aleecr2002
+# linkedin_username: 
+# instagram_username: 
+# youtube_username: 
+
+# Additional icon links
+additional_links:
+  - title: My Portfolio
+    icon: fas fa-globe
+    url: https://www.github.com/aleecr2002
+
+# Google Analytics and Tag Manager
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | 
+  Hello, I'm Alejandra! I am currently a university student and a passionate programmer. My journey into the world of programming has been an exciting one, filled with constant learning and challenges. 
+
+  I started my programming journey with **JavaScript** and **Python**, which allowed me to develop problem-solving skills and a strong analytical mindset. My passion for coding continues to grow as I work on various projects and strive to become a skilled software developer.
+
+  I am most skilled in: <mark>JavaScript</mark> and <mark>Python</mark>, and I am always looking for new technologies to learn and explore.
+
+content:
+  - title: Projects 
+    layout: list 
+    content: 
+      # Leave this section empty for now, ready to fill with future projects.
+      # Example:
+     
